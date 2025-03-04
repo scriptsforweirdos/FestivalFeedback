@@ -1,10 +1,10 @@
 {
   "Name": "Festival Feedback",
   "Author": "OnionNinja",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "Description": "Creates single day conversation topics based on Luau Ingredients and Stardew Fair Grange Displays.",
   "UniqueID": "OnionNinja.FestivalFeedback",
   "EntryDll": "FestivalFeedback.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": ["Nexus:31686"]
 }
